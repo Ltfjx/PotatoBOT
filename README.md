@@ -1,6 +1,8 @@
 # PotatoBOT
 [![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)  
-<font size=9>**Sh1tC0de警告**</font>  
+## <font size=9>**Sh1tC0de警告**</font>  
+</br>
+***
 A BOT designed for QQ.
 
 2020/8/14  
